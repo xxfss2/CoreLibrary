@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jiuzh.CoreBase", "Jiuzh.CoreBase\Jiuzh.CoreBase.csproj", "{59C51D10-5250-44B9-AB26-EA73086DEEE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jiuzh.EFBase", "Jiuzh.EFBase\Jiuzh.EFBase.csproj", "{AEF95228-B8FA-436A-874B-F31F3D677841}"
