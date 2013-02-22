@@ -107,7 +107,6 @@
     <Compile Include="Helper\DisposableResource.cs" />
     <Compile Include="Helper\PageResult.cs" />
     <Compile Include="Helper\SystemTime.cs" />
-    <Compile Include="Helper\UIHelp.cs" />
     <Compile Include="Infrastructure\Bootstrapper\Bootstrapper.cs" />
     <Compile Include="Infrastructure\Bootstrapper\IBootstrapperTask.cs" />
     <Compile Include="Infrastructure\Caching\Cache.cs" />
