@@ -5,7 +5,7 @@ using System.Text;
 
 //
 
-namespace Jiuzh.CoreBase
+namespace Jiuzh.CoreBase.Repository
 {
     public enum SortRules
     {

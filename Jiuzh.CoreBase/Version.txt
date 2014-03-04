@@ -1,0 +1,1 @@
+﻿2.0.1.0 移动了 PageBreakParam 和 SortParam 的命名空间，从 Jiuzh.CoreBase 到 Jiuzh.CoreBase.Repository
